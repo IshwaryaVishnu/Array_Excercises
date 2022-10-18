@@ -1,5 +1,5 @@
 package se.lexicon;
-public class Array {
+public class ElementsArray {
 
     public static void main(String[]args) {
 
